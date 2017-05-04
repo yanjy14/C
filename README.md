@@ -8,3 +8,8 @@
 3）实现对4over6隧道系统数据报文的封装和解封装。
 ##实验内容
 
+##参考资料
+细谈select函数 http://blog.csdn.net/piaojun_pj/article/details/5991968/
+inet_pton函数 http://baike.baidu.com/link?url=bIgdBNfngURuocS5i_tcLbV8393JtXj4QQMZoFtVIcpk8TUqukcVDfBz4EohN5GZNXcFx_KJFiTbc7P8-YACABDHdvS8iDuAfazZOzcUkiG
+Linux下Socket编程详解 http://blog.csdn.net/hguisu/article/details/7445768/
+IPv6下网络编程socket， TCP和UDP http://blog.csdn.net/hepeng597/article/details/7803277
